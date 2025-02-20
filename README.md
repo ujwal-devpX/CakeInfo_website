@@ -1,4 +1,4 @@
-# CakeInfo_website
+# FrontEnd:CakeInfo_website
 <br>
 <p>CakeInfo is a beautifully designed, responsive front-end website built using HTML & CSS, showcasing a variety of delicious bakery items. This project serves as a simple yet elegant way to present cakes with descriptions, images, and prices.</p>
 
@@ -22,3 +22,4 @@
 <br>
 
 <h1>Preview</h1>
+![image](https://github.com/user-attachments/assets/247d0d69-3687-43c1-a07e-b21f27d0296a)
